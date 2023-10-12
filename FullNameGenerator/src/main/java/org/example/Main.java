@@ -12,15 +12,6 @@ public class Main {
 
         firstName = firstName.substring(0,1).toUpperCase() + firstName.substring(1);
 
-        // String name = "Hally Amor"
-        // name.substring(1,5) = "ally "
-
-        // String s = "abcd"
-        //s.toUpperCase()   ->  "ABCD"
-
-        //"hally"
-        // "h"  -> "H"
-
 
 
         if (MiddleName.length() == 1)
