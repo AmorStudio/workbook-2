@@ -12,11 +12,6 @@ public class Main {
         String MiddleName;
         String LastName;
 
-        // Shankar Ale Magar
-        //{(Shankar), (Ale), (Magar)}
-        // Hally Amor
-        //{(Hally), (Amor)}  -> 2 words that means we don't have middle name
-        //index
 
 
         String [] s = FullName.split(" ");
